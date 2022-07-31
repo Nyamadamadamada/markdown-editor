@@ -1,0 +1,20 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "「React × TypeScript で手を動かながら学ぶ！モダンなフロントエンド開発入門」のノート",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Hello! package.json'",
+    "test": "未作成"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyamadamadamada/markdown-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyamadamadamada/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/Nyamadamadamada/markdown-editor#readme"
+}
